@@ -6,6 +6,7 @@
 
 ### Results:
 * Summarize the dataset with count tables
-* Construct social networks to characterize pattern in movement and identify hotspot location with increase risk of transmission
+* Construct social networks to characterize pattern using network metrics
+* Identify hotspot location with increased risk of transmission
 
 <img src="figures/Thailand_figure_4.PNG" width="600" />
