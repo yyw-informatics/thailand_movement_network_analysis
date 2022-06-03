@@ -11,3 +11,6 @@
 <img src="figures/Thailand_figure_4.PNG" width="600" />
 
 * Identify hotspot location with increased risk of transmission
+
+<img src="figures/Fig_3.png" width="600" />
+
