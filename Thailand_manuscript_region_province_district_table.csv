@@ -1,0 +1,112 @@
+region_code,region,province_code,province,district_code,district
+R1,Central,BKK,Bangkok,BKK1,Dusit
+R1,Central,CN,Chai Nat,CN1,Sapphaya
+R1,Central,LBR,Lop Buri,LB2,Chai Badan
+R1,Central,LBR,Lop Buri,LB4,Lam Sonthi
+R1,Central,LBR,Lop Buri,LB3,Nong Muang
+R1,Central,LBR,Lop Buri,LB1,Phatthana Nikhom 
+R1,Central,SR,Saraburi,S2,Ban Mo
+R1,Central,SR,Saraburi,S3,Kaeng Khoi
+R1,Central,SR,Saraburi,S1,Wang Muang
+R1,Central,SR,Saraburi,S4,Wihan Daeng
+R2,East,CB,Chon Buri,CB1,Ban Bueng
+R2,East,NN,Nakhon Nayok,NN1,Ban Na
+R2,East,SK,Sa Kaeo,SK2,Wang Nam Yen
+R2,East,SK,Sa Kaeo,SK1,Wang Sombun
+R2,East,SK,Sa Kaeo,SK3,Watthana Nakhon
+R2,East,SP,Samut Prakan,SP1,Bang Phli
+R3,Lower Northeast,NR,Nakhon Ratchasima,N2,Khon Buri
+R3,Lower Northeast,NR,Nakhon Ratchasima,N1,Pak Chong
+R3,Lower Northeast,NR,Nakhon Ratchasima,N3,Sikhio
+R3,Lower Northeast,SS,Si Sa Ket,SS1,Mueang Sisaket
+R3,Lower Northeast,UB,Ubon Ratchathani,UB1,Warin Chamrap
+R4,Upper Northeast,SN,Sakon Nakhon,SN1,Akat Amnuai
+R5,North,CM,Chiang Mai,C7,Chai Prakan
+R5,North,CM,Chiang Mai,C16,Chiang Dao
+R5,North,CM,Chiang Mai,C15,Chom Thong
+R5,North,CM,Chiang Mai,C6,Doi Lo
+R5,North,CM,Chiang Mai,C4,Doi Saket
+R5,North,CM,Chiang Mai,C14,Doi Tao
+R5,North,CM,Chiang Mai,C13,Fang
+R5,North,CM,Chiang Mai,C12,Hang Dong
+R5,North,CM,Chiang Mai,C9,Mae On
+R5,North,CM,Chiang Mai,C11,Mae Rim
+R5,North,CM,Chiang Mai,C17,Mae Taeng
+R5,North,CM,Chiang Mai,C10,Mae Wang
+R5,North,CM,Chiang Mai,C3,Mueang Chiang Mai
+R5,North,CM,Chiang Mai,C8,San Pa Tong
+R5,North,CM,Chiang Mai,C5,San sai
+R5,North,CM,Chiang Mai,C1,Sankampang
+R5,North,CM,Chiang Mai,C2,Saraphi
+R5,North,CR,Chiang Rai,CR2,Chiang Saen
+R5,North,CR,Chiang Rai,CR1,Khun Tan
+R5,North,CR,Chiang Rai,CR5,Mae Lao
+R5,North,CR,Chiang Rai,CR4,Mae Sai
+R5,North,CR,Chiang Rai,CR8,Mae Suai
+R5,North,CR,Chiang Rai,CR6,Mueang Chiang Rai
+R5,North,CR,Chiang Rai,CR3,Phan
+R5,North,CR,Chiang Rai,CR10,Thoeng
+R5,North,CR,Chiang Rai,CR9,Wiang Chai
+R5,North,CR,Chiang Rai,CR7,Wiang Pa Pao
+R5,North,LPA,Lampang,LP8,Chae Hom
+R5,North,LPA,Lampang,LP7,Doi Khun Tan
+R5,North,LPA,Lampang,LP1,Hang Chat
+R5,North,LPA,Lampang,LP9,Ko Kha
+R5,North,LPA,Lampang,LP2,Mae Tha
+R5,North,LPA,Lampang,LP3,Mueang Lampang
+R5,North,LPA,Lampang,LP5,Mueang Pan
+R5,North,LPA,Lampang,LP4,Theon
+R5,North,LPA,Lampang,LP6,Wang Nuea
+R5,North,LP,Lamphun,L3,Ban Hong
+R5,North,LP,Lamphun,L2,Ban Thi
+R5,North,LP,Lamphun,L7,Li
+R5,North,LP,Lamphun,L5,Mae Tha
+R5,North,LP,Lamphun,L1,Mueang Lamphun
+R5,North,LP,Lamphun,L6,Pa Sang
+R5,North,LP,Lamphun,L8,Thung Hua Chang
+R5,North,LP,Lamphun,L4,Wiang Nong Long
+R5,North,MS,Mae Hong Son,MS3,Mae Sariang
+R5,North,MS,Mae Hong Son,MS1,Mueang Mae Hong Son
+R5,North,MS,Mae Hong Son,MS2,Pai
+R5,North,NAA,Nan,NA2,Na Muen
+R5,North,NAA,Nan,NA4,Phu Phiang
+R5,North,NAA,Nan,NA5,Pua
+R5,North,NAA,Nan,NA1,Thung Chang
+R5,North,NAA,Nan,NA3,Wiang Sa
+R5,North,PY,Phayao,PY5,Chiang Kham
+R5,North,PY,Phayao,PY1,Chiang Muan
+R5,North,PY,Phayao,PY4,Chun
+R5,North,PY,Phayao,PY3,Dok Khamtai
+R5,North,PY,Phayao,PY6,Mae Chai
+R5,North,PY,Phayao,PY2,Mueang Phayao
+R5,North,PR,Phrae,PR3,Den Chai
+R5,North,PR,Phrae,PR5,Long
+R5,North,PR,Phrae,PR1,Mueang Phrae
+R5,North,PR,Phrae,PR4,Nong Muang Khai
+R5,North,PR,Phrae,PR2,Rong Kwang
+R6,Lower North,KP,Kamphaeng Phet,KP1,Klong Klung
+R6,Lower North,NS,Nakhon Sawan,NS1,Phaisali
+R6,Lower North,NS,Nakhon Sawan,NS2,Tak Fa
+R6,Lower North,PL,Phitsanulok,PL1,Wang Thong
+R6,Lower North,ST,Sukhothai,ST1,Ban Dan Lan Hoi
+R6,Lower North,ST,Sukhothai,ST2,Khiri Mat
+R6,Lower North,ST,Sukhothai,ST3,Sawankhalok
+R6,Lower North,ST,Sukhothai,ST4,Si Nakhon
+R6,Lower North,ST,Sukhothai,ST4,Si Satchanalai
+R6,Lower North,ST,Sukhothai,ST5,Thung Saliam
+R6,Lower North,TK,Tak,TK2,Mueang Tak
+R6,Lower North,TK,Tak,TK1,Wang Chao
+R6,Lower North,UT,Uttaradit,UT1,Phichai
+R6,Lower North,UT,Uttaradit,UT2,Tron
+R7,West,K,Kanchanaburi,K1,Mueang Kanchanaburi
+R7,West,K,Kanchanaburi,K2,Sai Yok
+R7,West,K,Kanchanaburi,K3,Tha Maka
+R7,West,NP,Nakhon Pathom,NP2,Kamphaeng Saen
+R7,West,NP,Nakhon Pathom,NP1,Mueang Nakhon Pathom
+R7,West,NP,Nakhon Pathom,NP3,Nakhon Chai Si
+R7,West,PB,Phetchaburi,PB2,Cha-am
+R7,West,PB,Phetchaburi,PB1,Kaeng Krachan
+R7,West,PK,Prachuap Khiri Khan,PK1,Bang Saphan Noi
+R7,West,RB,Ratchaburi,RB1,Ban Pong
+R7,West,RB,Ratchaburi,RB2,Banbueng
+R7,West,SB,Suphan Buri,SB1,Doem Bang Nang Buat
