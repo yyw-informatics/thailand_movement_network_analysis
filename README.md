@@ -1,4 +1,5 @@
-# Analysis notebook of the animal movement dataset
+# Epidemiology analysis using Social Network Metrics 
+### Animal movement patterns and the impact on transmission of zoonotic diseases 
 
 ### Input files:
 * a list of regions, provinces, and districts
@@ -10,7 +11,10 @@
 
 <img src="figures/Thailand_figure_4.PNG" width="600" />
 
-* Identify hotspot location with increased risk of transmission
+* Identify hotspot locations with increased risk of transmission
 
 <img src="figures/Fig_3.png" width="600" />
 
+
+### Publication:
+https://doi.org/10.3389/fvets.2022.961696
